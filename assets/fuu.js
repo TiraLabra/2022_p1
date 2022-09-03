@@ -41,7 +41,7 @@ Available fields for TAs:
     enSocial - will take precedende in English materials if present.
 */
 const tas = [
-    //{"name": "Matti Nykänen", "email": "matti@matti.fi", "fiSocial": "maatti @IRCnet", "enSocial": "TG: @mattimatti"},
+    
     {"name": "Hannu Kärnä (fi)", "social": "TG: Hannu Kärnä"},
     //{"name": "Saska Dönges (en)", "social": "TG: @saskeli"},
 ];

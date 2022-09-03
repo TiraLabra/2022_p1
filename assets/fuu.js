@@ -11,7 +11,7 @@ const timing = {
     "paja10": {"date": "2020-10-06", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
     "paja11": {"date": "2020-10-12", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
     "paja12": {"date": "2020-10-13", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},*/
-    "dl1": {"date": "2022-09-10T23:59:59+03:00", "en": "DL 1", "fi": "DL 1"},
+    "dl1": {"date": "2022-09-10T23:59:59+03:00", "en": "DL 1", "fi": "DL 1"}, 
     "dl2": {"date": "2022-09-17T23:59:59+03:00", "en": "DL 2", "fi": "DL 2"},
     "dl3": {"date": "2022-09-24T23:59:59+03:00", "en": "DL 3", "fi": "DL 3"},
     "dl4": {"date": "2022-10-01T23:59:59+03:00", "en": "DL 4", "fi": "DL 4"},

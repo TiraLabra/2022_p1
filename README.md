@@ -125,7 +125,7 @@ The `github.io` should become available after a while.
 
 ## 5. Updating the site during the course
 
-Changes to the course web site can be made by pushing changes to the `index.md` files in the repository. As changes are pushed to git, GitHub Pages should automatically recompile and depoloy the site. Some times the action is not triggered for some reason, and when that happens pushing another change typically resolves the issue.
+Changes to the course web site can be made by pushing changes to the `index.md` files in the repository. As changes are pushed to git, GitHub Pages should automatically recompile and depoloy the site. Some times the action is not triggered for some reason, and when that happens pushing another change typically resolves the issue. 
 
 **Note** that you do need to change both the Finnish and English source materials unless the changes are only to the `assets/fuu.js` file.
 

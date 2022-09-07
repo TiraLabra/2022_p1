@@ -29,7 +29,7 @@ tas.forEach(ta => {
   } else if (ta.email) {
     s = s + ", " + ta.email;
   } else {
-    s = s + ", (etunumi.sukunimi@helsinki.fi)"
+    s = s + ", (etunimi.sukunimi@helsinki.fi)"
   }
   if (ta.fiSocial) {
     s = s + ", " + ta.fiSocial;

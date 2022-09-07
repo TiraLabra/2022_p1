@@ -10,19 +10,19 @@ permalink: /fi/aikataulu/
 
 Vaikka et olisi tehnyt mitään jollakin tietyllä viikolla, kannattaa viikkoraportti kuitenkin kirjoittaa niin että repositoriossa on muutoksia viikon ajalta. Voit jopa saada pisteitä. Muuten pisteitä tulee automaattisesti 0 vaikka projektista olisi muuten mahdollista saada viikkopisteitä.
 
-Kolmen peräkkäisen viikon ajan muuttumaton repositorio tulkitan kurssin keskeyttämiseksi!
+Kolmen peräkkäisen viikon ajan muuttumaton repositorio tulkitaan kurssin keskeyttämiseksi!
 
 ## Viikko 1:
 
 * Palautus 1: **<script>document.write(fiString(timing["dl1"].date));</script>**
     * Aihe, käytettävä ohjelmointikieli ja työn laajuus päätetty.
         * Juttele tarvittaessa ohjaajan kanssa. Jos toteutat jonkin valmiista aiheista Javalla tai Pythonilla ja kaikki on selvää, voit siirtyä suoraan määrittelydokumentin kirjoittamiseen. Jos haluat toteuttaa työn täysin omasta aiheesta tai erikoisemmalla kielellä, kannattaa asiasta jutella ennen palautuksen tekemistä.
-    * Tustustu kurssimateriaaliin. Lue ainakin [dokumentaatio-ohjeet](../dokumentaatio/) tarkkaan.
+    * Tutustu kurssimateriaaliin. Lue ainakin [dokumentaatio-ohjeet](../dokumentaatio/) tarkkaan.
     * Dokumentaatio: Määrittelydokumentti valmis.
     * **<span style="color:red;">TÄRKEÄÄ!</span>** Muista kirjoittaa määrittelydokumenttiin opinto-ohjelmasi ja projektin kieli!
     * Viikkoraportti numero 1: Kirjoitettu ensimmäinen viikkoraportti (ks. [Palautukset](../palautukset/))
     * Katso, että repositoriosi etusivulle on linkattu suoraan viikkoraportit. Jos tarvitset apua markdownissa, niin katso GitHubin ohje: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/). Saat myös apua jos katsot esimerkiksi miten tämä tiedosto on tehty!
-    * Projekti: Projekti luotu. Ohjeita tarvittaessa [täältä](../maven-gradle/). Alustettu versionhallinta (Github). Kaikki palautettava lisätään versionhallintaan, sähköpostilla ei palauteta mitään!
+    * Projekti: Projekti luotu. Ohjeita tarvittaessa [täältä](../maven-gradle/). Alustettu versionhallinta (GitHub). Kaikki palautettava lisätään versionhallintaan, sähköpostilla ei palauteta mitään!
     * Salli issuet vertaisarviointia varten, katso [Issueiden luonnin salliminen repoon](../issuet/)
     * Rekisteröidytty kurssille labtoolissa: [https://study.cs.helsinki.fi/labtool/](https://study.cs.helsinki.fi/labtool/)
     * Labtoolin [pikaohje](../labtool/)
@@ -88,7 +88,7 @@ Kolmen peräkkäisen viikon ajan muuttumaton repositorio tulkitan kurssin keskey
 <ul>
   <li id="demo" />
   <li>Esitellään ohjelman toimintaa.</li>
-  <li>Lyhyt noin 10 minuuttinen esitys ja mahdollisiin kysymyksiin vastailu (riippuen aikataulusta).</li>
+  <li>Lyhyt noin-10 minuuttinen esitys ja mahdollisiin kysymyksiin vastailu (riippuen aikataulusta).</li>
 </ul>
 
 <script>
@@ -123,7 +123,7 @@ Kolmen peräkkäisen viikon ajan muuttumaton repositorio tulkitan kurssin keskey
         * Käyttöohje
 
 * **Ohjelma:**
-    * Mielellään suoritettava ohjelma [github releasena](https://help.github.com/en/articles/creating-releases) (esim. jar-tiedosto)
+    * Mielellään suoritettava ohjelma [GitHub releasena](https://help.github.com/en/articles/creating-releases) (esim. jar-tiedosto)
     * Työ valmis ja hiottu
 
 * **Testaus:**
